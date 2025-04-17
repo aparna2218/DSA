@@ -1,0 +1,29 @@
+Possible Combination:
+
+1. A & B don't overlap each other. A comes first.
+2. A & B don't overlap each other. B comes first.
+3. A & B overlaps, B starts before A ends and B ends after A ends.
+4. A & B overlaps, B starts before A starts and B ends before A ends.
+5. A completely overlaps B.
+6. B completely overlaps A.
+
+
+Questions:
+
+https://leetcode.com/problems/merge-intervals/
+
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+https://leetcode.com/problems/merge-two-binary-trees/
+
+https://leetcode.com/problems/insert-interval/
+
+https://leetcode.com/problems/meeting-rooms/
+
+https://leetcode.com/problems/meeting-rooms-ii/
+
+https://leetcode.com/problems/interval-list-intersections/
+
+https://leetcode.com/problems/employee-free-time/
+
+https://leetcode.com/problems/single-threaded-cpu/
